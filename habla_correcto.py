@@ -18,7 +18,7 @@ sample_rate = 44100
 translator = Translator()
 
 print("========================================================")
-print("                  🎯 HABLA CORRECTO 🎯                  ")
+print("                  🎯 HABLA CORRECTO 🎯 ESTO ES UNA RAMA XDDDDD                 ")
 print("========================================================")
 
 # 1. Selección de dificultad
